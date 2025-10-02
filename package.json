@@ -1,0 +1,27 @@
+{
+  "name": "smartpark-landing-page",
+  "version": "1.0.0",
+  "description": "Landing page para el sistema inteligente de estacionamiento SmartPark",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server . -p 3000 -o",
+    "dev": "npx http-server . -p 3000 -o"
+  },
+  "keywords": [
+    "smartpark",
+    "parking",
+    "iot",
+    "landing-page",
+    "estacionamiento",
+    "sistema-inteligente"
+  ],
+  "author": "Equipo SafePark",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tu-usuario/smartpark-landing.git"
+  }
+}
